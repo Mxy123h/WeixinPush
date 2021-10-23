@@ -17,6 +17,4 @@
 
 http://xxx.xxx/weixin.php?msg=测试提交
 
----
 
-项目地址https://github.com/Mxy123h/WeixinPush
